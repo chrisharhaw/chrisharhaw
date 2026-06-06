@@ -1,4 +1,13 @@
-## Hi there 👋
+Hi! I am a postdoctoral researcher at the Centre for Theoretical Physics, Polish Academy of Sciences in Warsaw, Poland. I'm currently working on many different aspects of gravitational lensing, including:
+- Post-Geometical Optics - the inclusion of higher order terms that bridge between geometric optics and wave phenomena.
+- Effects of strong lensing on gravitational waves.
+- Strong gravitational lensing as a method to constrain comsological parameters and compare cosmological models.
+
+I am also interested in - and in my free time learning the basics of - Neural networks, Machine Learning, and LLMs. Alongside trying to spend as much time outside, touching grass, as possible! 
+
+IF you have any questions about me or my work, you can reach me through my institutional email address:
+📫 harvey-hawes@cft.edu.pl
+Please don't hesitate to reach out!
 
 <!--
 **chrisharhaw/chrisharhaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
