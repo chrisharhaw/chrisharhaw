@@ -6,7 +6,9 @@ Hi! I am a postdoctoral researcher at the Centre for Theoretical Physics, Polish
 I am also interested in - and in my free time learning the basics of - Neural networks, Machine learning, and LLMs. Alongside trying to spend as much time outside, touching grass, as possible! 
 
 If you have any questions about me or my work, you can reach me through my institutional email address:
+
 📫 harvey-hawes@cft.edu.pl
+
 Please don't hesitate to reach out!
 
 <!--
