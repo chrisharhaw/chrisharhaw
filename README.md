@@ -6,7 +6,7 @@ Background: I'm a postdoc at the Centre for Theoretical Physics, Polish Academy 
 
 📫 [chrish-h@hotmail.co.uk] · [LinkedIn](https://www.linkedin.com/in/christopher-harvey-hawes/) · [Google Scholar](https://scholar.google.com/citations?user=eX7jGkgAAAAJ&hl=en)
 
-When I'm not at a screen, I'm trying to spend as much time outside, touching grass, as possible.
+When I'm not at a screen, I'm trying to spend as much time as possible outside, touching grass.
 
 <!--
 **chrisharhaw/chrisharhaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
