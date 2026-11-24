@@ -1,6 +1,6 @@
 Hi, I'm Chris 👋
 
-I'm a physicist moving into technical AI safety. Interested in developmental interpretability, scalable oversight, and ambitious mech interp: I'm a SPAR research fellow working on model diffing, and I took part in the Iliad Intensive in San Francisco in October 2026.
+I'm a physicist moving into technical AI safety. Interested in developmental interpretability, scalable oversight, and ambitious mech interp: I'm currently a SPAR research fellow working on model diffing, and I took part in the Iliad Intensive in San Francisco in October 2026.
 
 Background: I'm a postdoc at the Centre for Theoretical Physics, Polish Academy of Sciences, working on gravitational-wave lensing and strong-lensing cosmology. Several years worth of experience with scientific computing in Julia and Python, Bayesian inference (MCMC, hierarchical models, nested sampling), and mathematical modelling. 
 
